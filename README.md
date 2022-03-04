@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there, welcome to my page! 👋
+```json
+{
+  "Section": "About Me",
+  "Name": "Daniel Johnson",
+  "Pronouns": ["he/him"],
+  "Occupations": ["(almost) Graduate Student", "Software Engineer"],
+  "Interests": ["Machine Learning", "Data Science", "Programming Language Design", "Cybersecurity"],
+  "Favorite Languages": ["Python", "JavaScript", "Go", "Haskell"],
+}
+```
+## Feel free to check out my favorite projects below 👇
 
 <!--
 **DanielRJohnson/DanielRJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
