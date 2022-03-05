@@ -9,7 +9,7 @@
   "Favorite Languages": ["Python", "JavaScript", "Go", "Haskell"],
 }
 ```
-## Feel free to check out my favorite projects below 👇
+### Check out [my website](http://www.danielrjohnson.me) or see my favorite projects below 👇
 
 <!--
 **DanielRJohnson/DanielRJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
