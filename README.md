@@ -4,9 +4,9 @@
   "Section": "About Me",
   "Name": "Daniel Johnson",
   "Pronouns": ["he/him"],
-  "Occupations": ["(almost) Graduate Student", "Software Engineer"],
-  "Interests": ["Machine Learning", "Data Science", "Programming Language Design", "Cybersecurity"],
-  "Favorite Languages": ["Python", "JavaScript", "Go", "Haskell"],
+  "Occupations": ["Graduate Student", "Software Engineer"],
+  "Interests": ["Machine Learning", "Data Science", "Programming Language Design"],
+  "Favorite Languages": ["Python", "JavaScript", "Go", "Rust", "Haskell"],
 }
 ```
 ### Check out [my website](https://danielrjohnson.dev/) or see my favorite projects below 👇
