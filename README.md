@@ -1,12 +1,13 @@
 ## Hi there, welcome to my page! 👋
 ```json
 {
-  "Section": "About Me",
   "Name": "Daniel Johnson",
-  "Pronouns": ["he/him"],
-  "Occupations": ["Graduate Student", "Software Engineer"],
-  "Interests": ["Machine Learning", "Data Science", "Programming Language Design"],
-  "Favorite Languages": ["Python", "JavaScript", "Go", "Rust", "Haskell"],
+  "About Me": {
+    "Pronouns": ["he/him"],
+    "Occupations": ["Graduate Student", "Software Engineer", "Data Scientist"],
+    "Interests": ["Machine Learning", "Data Science", "Programming Language Design"],
+    "Favorite Languages": ["Python", "Go", "Rust", "Haskell", "JavaScript"]
+  }
 }
 ```
 ### Check out [my website](https://danielrjohnson.dev/) or see my favorite projects below 👇
