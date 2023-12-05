@@ -4,9 +4,9 @@
   "Name": "Daniel Johnson",
   "About Me": {
     "Pronouns": ["he/him"],
-    "Occupations": ["Graduate Student", "Software Engineer", "Data Scientist"],
-    "Interests": ["Machine Learning", "Data Science", "Programming Language Design"],
-    "Favorite Languages": ["Python", "Go", "Rust", "Haskell", "JavaScript"]
+    "Occupations": ["Graduate Student", "Software Engineer"],
+    "Interests": ["Machine Learning", "High-Performance Computing", "Compilers & Interpreters"],
+    "Favorite Languages": ["Python", "Go", "Rust", "Haskell", "C++"]
   }
 }
 ```
