@@ -4,7 +4,7 @@
   "Name": "Daniel Johnson",
   "About Me": {
     "Pronouns": ["he/him"],
-    "Occupations": ["Graduate Student", "Software Engineer"],
+    "Occupations": ["Researcher", "Software Engineer", "Data Scientist"],
     "Interests": ["Machine Learning", "High-Performance Computing", "Compilers & Interpreters"],
     "Favorite Languages": ["Python", "Go", "Rust", "Haskell", "C++"]
   }
